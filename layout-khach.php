@@ -76,7 +76,7 @@
                     <a href="">19001580</a>
                   </div>
                   <div class="login">
-                    <a href="">Đăng nhập</a>&nbsp;/&nbsp; <a href="">Đăng ký</a>
+                    <a href="">Đăng nhập</a>&nbsp;&nbsp; <a href="">Đăng ký</a>
                   </div>
                   <div class="cart">
                     <a href=""><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
