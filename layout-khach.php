@@ -69,32 +69,61 @@
             <!-- col search -->
 
             <!-- col hide for small screen -->
-              <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6 hide_for_small_scr">
-                <div class="hide_for_medium_scr">
-                  <div class="hotline hide_md_scr">
-                    <span>Mua hàng online</span><br>
-                    <a href="">19001580</a>
-                  </div>
-                  <div class="login">
-                    <a href="">Đăng nhập</a>&nbsp;&nbsp; <a href="">Đăng ký</a>
-                  </div>
-                  <div class="cart">
-                    <a href=""><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
-                  </div>
+            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6 hide_for_small_scr">
+              <div class="hide_for_medium_scr">
+                <div class="hotline hide_md_scr">
+                  <span>Mua hàng online</span><br>
+                  <a href="">19001580</a>
+                </div>
+                <div class="login">
+                  <a href="">Đăng nhập</a>&nbsp;&nbsp; <a href="">Đăng ký</a>
+                </div>
+                <div class="cart">
+                  <a href=""><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
                 </div>
               </div>
+            </div>
             <!-- col hide for small screen -->
           </div>
         </div>
+      </div>
         <!-- end row main header -->
-        <!-- row nav -->
-        <div class="row">
-          <div class="row_nav">
-            <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
-
+      <!-- row nav -->
+      <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+            <div class="header_bottom">
+              <div class="center_bottom_items">
+                <div class="dmsp">
+                  <i class="fas fa-bars"></i> <span>Danh mục sản phẩm</span>
+                </div>
+                <div class="midle_items">
+                  <p><b>CAM KẾT</b> <br>
+                  Giá tốt nhất</p>
+                  <i class="fas fa-piggy-bank"></i>
+                </div>
+                <div class="midle_items">
+                  <p><b>MIỄN PHÍ</b> <br>
+                  Vận chuyển</p>
+                  <i class="fas fa-shipping-fast"></i>
+                </div>
+                <div class="midle_items">
+                  <p><b>THANH TOÁN</b> <br>
+                  Khi nhận hàng</p>
+                  <i class="fas fa-box-open"></i>
+                </div>
+                <div class="midle_items">
+                  <p><b>ĐỔI TRẢ</b> <br>
+                  Trong 3 ngày</p>
+                  <i class="fas fa-redo-alt"></i>
+                </div>
+                <div class="midle_items">
+                  <p><b>BẢO HÀNH</b> <br>
+                  Chính hãng</p>
+                  <i class="fas fa-tools"></i>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
       </div>
       <!-- end row nav -->
     </div>
